@@ -34,7 +34,7 @@ Você não precisa de um servidor para rodar o PomoTime\!
 3.  **Abra no Navegador:**
     Localize o arquivo **`index.html`** e abra-o diretamente no seu navegador
 
-    4. **Melhorias:**
+4.  **Melhorias:**
   * **Contador de Ciclos:** Um contador visual para acompanhar quantos Pomodoros foram concluídos (para saber quando usar a Pausa Longa).
   * **Configurações Personalizadas:** Opção para o usuário definir a duração dos tempos de Pomodoro, Pausa Curta e Pausa Longa.
   * **Notificações de Desktop:** Usar a API de Notificações do Navegador para avisar o usuário mesmo quando a aba estiver em segundo plano.
