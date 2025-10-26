@@ -37,7 +37,3 @@ Você não precisa de um servidor para rodar o PomoTime\!
   * **Configurações Personalizadas:** Opção para o usuário definir a duração dos tempos de Pomodoro, Pausa Curta e Pausa Longa.
   * **Notificações de Desktop:** Usar a API de Notificações do Navegador para avisar o usuário mesmo quando a aba estiver em segundo plano.
   * **Persistência de Dados:** Salvar as configurações e o número de ciclos usando `localStorage`.
-
------
-
-Gostaria que eu te ajudasse a estruturar as pastas do seu projeto (por exemplo, mover o CSS e o JS para suas próprias subpastas) ou a fazer o commit final com este README?
